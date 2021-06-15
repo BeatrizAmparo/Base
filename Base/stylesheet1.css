@@ -1,6 +1,7 @@
 body {
 	font-size: 20px;
 	color: white;
+	background-color: black;
 }
 
 a {
@@ -9,7 +10,8 @@ a {
 }
 
 p {
-	color: black;
-	background-color: black;
+	color: white;
+	background-color: white;
 }
 
+.sidebar{ float:right; padding: 15px 20px 15px;}
